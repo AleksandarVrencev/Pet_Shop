@@ -1,2 +1,8 @@
-﻿  main.cpp
-  projekat.vcxproj -> C:\Users\WINDOWS 10\source\repos\projekat\Debug\projekat.exe
+﻿  fajl.cpp
+C:\Users\Aleksandar\Desktop\github\Pet_Shop\projekat\fajl.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+  Macka.cpp
+  main.cpp
+  Pas.cpp
+  Zivotinja.cpp
+  Generating Code...
+  projekat.vcxproj -> C:\Users\Aleksandar\Desktop\github\Pet_Shop\Debug\projekat.exe
